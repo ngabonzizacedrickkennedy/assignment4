@@ -174,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       ),
                       SizedBox(height: 2),
                       const Text(
-                        'Oliverbyo34@gmail.com',
+                        'cedrickngabo03@gmail.com',
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 14,
@@ -293,3 +293,5 @@ class _AppLocalizationsDelegate
     return false;
   }
 }
+
+
